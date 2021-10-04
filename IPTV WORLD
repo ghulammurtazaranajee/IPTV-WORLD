@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U#
 
 #EXTINF:-1,MA: ALMAGHRIBIA
 http://www.magicoiptv.org:8080/hasan/hasan123/50
@@ -208,8 +208,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/110
 http://www.magicoiptv.org:8080/hasan/hasan123/112
 #EXTINF:-1,|FR| RMC Sport Live 14 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/113
-#EXTINF:-1,|FR| RMC Sport Live 15 HD
-http://www.magicoiptv.org:8080/hasan/hasan123/114
 #EXTINF:-1,|FR| RMC Sport Live 16 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/115
 #EXTINF:-1,|FR| RMC SPORT NEWS FHD
@@ -266,8 +264,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/143
 http://www.magicoiptv.org:8080/hasan/hasan123/144
 #EXTINF:-1,[CA-FR] SUPER ECRAN 2
 http://www.magicoiptv.org:8080/hasan/hasan123/145
-#EXTINF:-1,[CA-FR] SUPER ECRAN 4
-http://www.magicoiptv.org:8080/hasan/hasan123/147
 #EXTINF:-1,|FR| ALTICE STUDIO HD
 http://www.magicoiptv.org:8080/hasan/hasan123/148
 #EXTINF:-1,|FR| WARNER TV
@@ -294,8 +290,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/159
 http://www.magicoiptv.org:8080/hasan/hasan123/160
 #EXTINF:-1,|FR| COMEDIE+
 http://www.magicoiptv.org:8080/hasan/hasan123/162
-#EXTINF:-1,|FR| MY COMEDY
-http://www.magicoiptv.org:8080/hasan/hasan123/163
 #EXTINF:-1,|FR| TV Breizh
 http://www.magicoiptv.org:8080/hasan/hasan123/165
 #EXTINF:-1,|FR| TEVA
@@ -440,22 +434,14 @@ http://www.magicoiptv.org:8080/hasan/hasan123/261
 http://www.magicoiptv.org:8080/hasan/hasan123/264
 #EXTINF:-1,|FR| MTV HITS
 http://www.magicoiptv.org:8080/hasan/hasan123/265
-#EXTINF:-1,|FR| MTV DANCE
-http://www.magicoiptv.org:8080/hasan/hasan123/266
-#EXTINF:-1,|FR| NRJ HITS
-http://www.magicoiptv.org:8080/hasan/hasan123/267
 #EXTINF:-1,|FR| M6 Music
 http://www.magicoiptv.org:8080/hasan/hasan123/268
 #EXTINF:-1,|FR| TRACE URBAN
 http://www.magicoiptv.org:8080/hasan/hasan123/269
 #EXTINF:-1,|FR| TRACE AFRICA
 http://www.magicoiptv.org:8080/hasan/hasan123/270
-#EXTINF:-1,|FR| TRACE KITOKO
-http://www.magicoiptv.org:8080/hasan/hasan123/272
 #EXTINF:-1,|FR| TRACE MZIKI
 http://www.magicoiptv.org:8080/hasan/hasan123/273
-#EXTINF:-1,|FR| TRACE TOCA
-http://www.magicoiptv.org:8080/hasan/hasan123/275
 #EXTINF:-1,|FR| Bblack! Classik
 http://www.magicoiptv.org:8080/hasan/hasan123/276
 #EXTINF:-1,|FR| Bblack! Africa
@@ -830,8 +816,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/596
 http://www.magicoiptv.org:8080/hasan/hasan123/598
 #EXTINF:-1,US: HBO EAST
 http://www.magicoiptv.org:8080/hasan/hasan123/599
-#EXTINF:-1,US: HBO FAMILY
-http://www.magicoiptv.org:8080/hasan/hasan123/600
 #EXTINF:-1,US: SHOWTIME WEST
 http://www.magicoiptv.org:8080/hasan/hasan123/605
 #EXTINF:-1,US: SHOWTIME FAMILY ZONE
@@ -862,34 +846,14 @@ http://www.magicoiptv.org:8080/hasan/hasan123/661
 http://www.magicoiptv.org:8080/hasan/hasan123/663
 #EXTINF:-1,US: ANIMAL PLANET EAST
 http://www.magicoiptv.org:8080/hasan/hasan123/664
-#EXTINF:-1,US: DISCOVERY FAMILY
-http://www.magicoiptv.org:8080/hasan/hasan123/668
-#EXTINF:-1,US: DISCOVERY ID EAST
-http://www.magicoiptv.org:8080/hasan/hasan123/669
-#EXTINF:-1,US: ASPIRE
-http://www.magicoiptv.org:8080/hasan/hasan123/672
 #EXTINF:-1,US: DISNEY CHANNEL EAST
 http://www.magicoiptv.org:8080/hasan/hasan123/680
 #EXTINF:-1,US: WWE Network HD
 http://www.magicoiptv.org:8080/hasan/hasan123/686
-#EXTINF:-1,US: WE TV
-http://www.magicoiptv.org:8080/hasan/hasan123/688
-#EXTINF:-1,US: TV LAND EAST
-http://www.magicoiptv.org:8080/hasan/hasan123/694
-#EXTINF:-1,US: TNT EAST
-http://www.magicoiptv.org:8080/hasan/hasan123/699
-#EXTINF:-1,US: TLC WEST
-http://www.magicoiptv.org:8080/hasan/hasan123/700
-#EXTINF:-1,US: TLC EAST
-http://www.magicoiptv.org:8080/hasan/hasan123/701
-#EXTINF:-1,US: TASTEMADE EAST
-http://www.magicoiptv.org:8080/hasan/hasan123/705
 #EXTINF:-1,US: SYFY EAST
 http://www.magicoiptv.org:8080/hasan/hasan123/707
 #EXTINF:-1,US: SMITHSONIAN EAST
 http://www.magicoiptv.org:8080/hasan/hasan123/712
-#EXTINF:-1,US: CLEO TV
-http://www.magicoiptv.org:8080/hasan/hasan123/720
 #EXTINF:-1,Ar: Mbc 3
 http://www.magicoiptv.org:8080/hasan/hasan123/894
 #EXTINF:-1,Ar: Mbc 4
@@ -1180,8 +1144,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1194
 http://www.magicoiptv.org:8080/hasan/hasan123/1195
 #EXTINF:-1,CA | Disney
 http://www.magicoiptv.org:8080/hasan/hasan123/1199
-#EXTINF:-1,CA | Disney JR
-http://www.magicoiptv.org:8080/hasan/hasan123/1200
 #EXTINF:-1,CA | E! Entertainment
 http://www.magicoiptv.org:8080/hasan/hasan123/1201
 #EXTINF:-1,CA | Family CA
@@ -1210,8 +1172,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1222
 http://www.magicoiptv.org:8080/hasan/hasan123/1223
 #EXTINF:-1,CA | TSN 3 FHD CA
 http://www.magicoiptv.org:8080/hasan/hasan123/1225
-#EXTINF:-1,CA | TSN 4 FHD CA
-http://www.magicoiptv.org:8080/hasan/hasan123/1227
 #EXTINF:-1,CA | TSN 5
 http://www.magicoiptv.org:8080/hasan/hasan123/1229
 #EXTINF:-1,CA | Disney La Chaine FR
@@ -1248,8 +1208,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1368
 http://www.magicoiptv.org:8080/hasan/hasan123/1369
 #EXTINF:-1,OSN Star Movies HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1371
-#EXTINF:-1,OSN Nat Geo Abu Dhabi  HD
-http://www.magicoiptv.org:8080/hasan/hasan123/1375
 #EXTINF:-1,OSN Nat Geo People HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1377
 #EXTINF:-1,OSN Nat Geo Wild HD
@@ -1266,10 +1224,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1386
 http://www.magicoiptv.org:8080/hasan/hasan123/1388
 #EXTINF:-1,Tr: beIN Sports 1
 http://www.magicoiptv.org:8080/hasan/hasan123/1390
-#EXTINF:-1,Tr: beIN Sports 3
-http://www.magicoiptv.org:8080/hasan/hasan123/1392
-#EXTINF:-1,Tr: TRT Sport
-http://www.magicoiptv.org:8080/hasan/hasan123/1414
 #EXTINF:-1,magico Action  +1
 http://www.magicoiptv.org:8080/hasan/hasan123/1460
 #EXTINF:-1,magico Drama
@@ -1332,8 +1286,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1508
 http://www.magicoiptv.org:8080/hasan/hasan123/1510
 #EXTINF:-1,MYHD-Gulli
 http://www.magicoiptv.org:8080/hasan/hasan123/1514
-#EXTINF:-1,MYHD-FOX Rewayat
-http://www.magicoiptv.org:8080/hasan/hasan123/1515
 #EXTINF:-1,MYHD-FOX Life
 http://www.magicoiptv.org:8080/hasan/hasan123/1516
 #EXTINF:-1,MYHD-FOX Crime
@@ -1356,32 +1308,18 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1929
 http://www.magicoiptv.org:8080/hasan/hasan123/1937
 #EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1938
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://www.magicoiptv.org:8080/hasan/hasan123/1940
 #EXTINF:-1,UK: Sky Sports Mix HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1942
 #EXTINF:-1,UK: Sky Sports News HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1943
 #EXTINF:-1,IT: SKY SPORT SERIE A HD
 http://www.magicoiptv.org:8080/hasan/hasan123/2030
-#EXTINF:-1,IT: Sky Sport UNO HD
-http://www.magicoiptv.org:8080/hasan/hasan123/2032
 #EXTINF:-1,(ES)  BeiN La Liga
 http://www.magicoiptv.org:8080/hasan/hasan123/2399
-#EXTINF:-1,US: NBC LOS ANGELES CA KNBC
-http://www.magicoiptv.org:8080/hasan/hasan123/2545
-#EXTINF:-1,USA: NBCSN
-http://www.magicoiptv.org:8080/hasan/hasan123/2553
-#EXTINF:-1,NBC DALLAS TX KXAS
-http://www.magicoiptv.org:8080/hasan/hasan123/2568
 #EXTINF:-1,NBC HARTFORD CT WVIT
 http://www.magicoiptv.org:8080/hasan/hasan123/2572
 #EXTINF:-1,NBC JACKSONVILLE FL WTLV
 http://www.magicoiptv.org:8080/hasan/hasan123/2575
-#EXTINF:-1,NBC MILWUAKEE WI WTMJ
-http://www.magicoiptv.org:8080/hasan/hasan123/2579
-#EXTINF:-1,US: FOX DALLAS TX KDFW
-http://www.magicoiptv.org:8080/hasan/hasan123/2597
 #EXTINF:-1,FOX AUSTIN TX KTBC
 http://www.magicoiptv.org:8080/hasan/hasan123/2600
 #EXTINF:-1,FOX SAN ANTONIO TX KABB
@@ -1416,8 +1354,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/2672
 http://www.magicoiptv.org:8080/hasan/hasan123/2673
 #EXTINF:-1,IT: SKY SPORT COLLECTION | UHD
 http://www.magicoiptv.org:8080/hasan/hasan123/2811
-#EXTINF:-1,UK: Sky Sports F1
-http://www.magicoiptv.org:8080/hasan/hasan123/2823
 #EXTINF:-1,UK: PREMIER SPORTS 2
 http://www.magicoiptv.org:8080/hasan/hasan123/2835
 #EXTINF:-1,UK: 4 Seven | UHD
@@ -1442,12 +1378,8 @@ http://www.magicoiptv.org:8080/hasan/hasan123/2873
 http://www.magicoiptv.org:8080/hasan/hasan123/2875
 #EXTINF:-1,UK: Nick Jr
 http://www.magicoiptv.org:8080/hasan/hasan123/2876
-#EXTINF:-1,UK: Nickelodeon
-http://www.magicoiptv.org:8080/hasan/hasan123/2877
 #EXTINF:-1,UK: National Geographic Wild | UHD
 http://www.magicoiptv.org:8080/hasan/hasan123/2881
-#EXTINF:-1,UK: Discovery History | HD
-http://www.magicoiptv.org:8080/hasan/hasan123/2885
 #EXTINF:-1,UK: DMAX
 http://www.magicoiptv.org:8080/hasan/hasan123/2886
 #EXTINF:-1,UK: Discovery Science | HD
@@ -1466,30 +1398,16 @@ http://www.magicoiptv.org:8080/hasan/hasan123/2898
 http://www.magicoiptv.org:8080/hasan/hasan123/2924
 #EXTINF:-1,UK: Food Network | UHD
 http://www.magicoiptv.org:8080/hasan/hasan123/2947
-#EXTINF:-1,UK: MTV Music | HD
-http://www.magicoiptv.org:8080/hasan/hasan123/2957
 #EXTINF:-1,(SENEGAL) RTS1
 http://www.magicoiptv.org:8080/hasan/hasan123/3724
-#EXTINF:-1,(SENEGAL) TFM  Religions
-http://www.magicoiptv.org:8080/hasan/hasan123/3742
-#EXTINF:-1,(CAMERON) Africanews
-http://www.magicoiptv.org:8080/hasan/hasan123/3789
 #EXTINF:-1,AR: AL HIWAR ETTOUNSI
 http://www.magicoiptv.org:8080/hasan/hasan123/4202
-#EXTINF:-1,LATINO | UNIVISION HOUSTON USA
-http://www.magicoiptv.org:8080/hasan/hasan123/5046
 #EXTINF:-1,AR: CHOUROUK NEWS
 http://www.magicoiptv.org:8080/hasan/hasan123/6300
 #EXTINF:-1,AR: HADDEF ALGERIE
 http://www.magicoiptv.org:8080/hasan/hasan123/6302
 #EXTINF:-1,(NIGERIA) nollywood
 http://www.magicoiptv.org:8080/hasan/hasan123/6485
-#EXTINF:-1,MC | TODAYS COUNTRY CMA AWARDS
-http://www.magicoiptv.org:8080/hasan/hasan123/7487
-#EXTINF:-1,USA: FOX SPORTS SUN
-http://www.magicoiptv.org:8080/hasan/hasan123/7531
-#EXTINF:-1,USA: ESPN U
-http://www.magicoiptv.org:8080/hasan/hasan123/7542
 #EXTINF:-1,US: ESPN DEPORTES FHD
 http://www.magicoiptv.org:8080/hasan/hasan123/7543
 #EXTINF:-1,US: Telemundo Phoenix
@@ -1502,10 +1420,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/7600
 http://www.magicoiptv.org:8080/hasan/hasan123/7601
 #EXTINF:-1,TR | HABER GLOBAL HD
 http://www.magicoiptv.org:8080/hasan/hasan123/7613
-#EXTINF:-1,TR | TRT Spor HD
-http://www.magicoiptv.org:8080/hasan/hasan123/7623
-#EXTINF:-1,TR | TV 4 HD
-http://www.magicoiptv.org:8080/hasan/hasan123/7630
 #EXTINF:-1,TR TVNET HD
 http://www.magicoiptv.org:8080/hasan/hasan123/7903
 #EXTINF:-1,|FR| i24 News HD
@@ -1538,8 +1452,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/8300
 http://www.magicoiptv.org:8080/hasan/hasan123/8302
 #EXTINF:-1,sudan: Africa TV2
 http://www.magicoiptv.org:8080/hasan/hasan123/8304
-#EXTINF:-1,sudan: Blue Nile
-http://www.magicoiptv.org:8080/hasan/hasan123/8307
 #EXTINF:-1,sudan: sudania 24
 http://www.magicoiptv.org:8080/hasan/hasan123/8308
 #EXTINF:-1,C5N SD
@@ -1548,8 +1460,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/11801
 http://www.magicoiptv.org:8080/hasan/hasan123/11815
 #EXTINF:-1,El trece HD
 http://www.magicoiptv.org:8080/hasan/hasan123/11816
-#EXTINF:-1,El trece FHD
-http://www.magicoiptv.org:8080/hasan/hasan123/11817
 #EXTINF:-1,Cine AR HD
 http://www.magicoiptv.org:8080/hasan/hasan123/11824
 #EXTINF:-1,Todo Noticias TN HD
@@ -1570,8 +1480,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/12278
 http://www.magicoiptv.org:8080/hasan/hasan123/12282
 #EXTINF:-1,NL: FOX SPORTS 5 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/12307
-#EXTINF:-1,NL: Ziggo Sport
-http://www.magicoiptv.org:8080/hasan/hasan123/12309
 #EXTINF:-1,NL: KETNET
 http://www.magicoiptv.org:8080/hasan/hasan123/12327
 #EXTINF:-1,NL: NICK JR.
@@ -1678,8 +1586,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/13434
 http://www.magicoiptv.org:8080/hasan/hasan123/13436
 #EXTINF:-1,HU | Film 4
 http://www.magicoiptv.org:8080/hasan/hasan123/13759
-#EXTINF:-1,HU | HBO 3
-http://www.magicoiptv.org:8080/hasan/hasan123/13773
 #EXTINF:-1,HU | Paprika TV
 http://www.magicoiptv.org:8080/hasan/hasan123/13806
 #EXTINF:-1,HU | Sorozat
@@ -1754,8 +1660,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/20408
 http://www.magicoiptv.org:8080/hasan/hasan123/21088
 #EXTINF:-1,VIP - LALIGA TV BAR HD
 http://www.magicoiptv.org:8080/hasan/hasan123/21112
-#EXTINF:-1,Ar: OnTime ٍSport2
-http://www.magicoiptv.org:8080/hasan/hasan123/21115
 #EXTINF:-1,Ar: Time Sport 3
 http://www.magicoiptv.org:8080/hasan/hasan123/21116
 #EXTINF:-1,Magico COMEDY HD
@@ -1764,12 +1668,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/21158
 http://www.magicoiptv.org:8080/hasan/hasan123/21163
 #EXTINF:-1,SE: DISCOVERY WORLD
 http://www.magicoiptv.org:8080/hasan/hasan123/21498
-#EXTINF:-1,SE: C MORE FIRST HD
-http://www.magicoiptv.org:8080/hasan/hasan123/21512
-#EXTINF:-1,SE: VIASAT SERIES FHD
-http://www.magicoiptv.org:8080/hasan/hasan123/21543
-#EXTINF:-1,SE: H2 HISTORY HD
-http://www.magicoiptv.org:8080/hasan/hasan123/21548
 #EXTINF:-1,BRAVO HD
 http://www.magicoiptv.org:8080/hasan/hasan123/15969
 #EXTINF:-1,C-PAC (FR)
@@ -1782,26 +1680,16 @@ http://www.magicoiptv.org:8080/hasan/hasan123/15984
 http://www.magicoiptv.org:8080/hasan/hasan123/15987
 #EXTINF:-1,ICI RDI
 http://www.magicoiptv.org:8080/hasan/hasan123/15990
-#EXTINF:-1,ICI VANCOUVER
-http://www.magicoiptv.org:8080/hasan/hasan123/15995
-#EXTINF:-1,Series+ (FR)
-http://www.magicoiptv.org:8080/hasan/hasan123/16011
 #EXTINF:-1,TVA MONTREAL
 http://www.magicoiptv.org:8080/hasan/hasan123/16029
 #EXTINF:-1,TVO HD
 http://www.magicoiptv.org:8080/hasan/hasan123/16036
-#EXTINF:-1,Unis TV (FR)
-http://www.magicoiptv.org:8080/hasan/hasan123/16037
 #EXTINF:-1,VRAK TV (FR)
 http://www.magicoiptv.org:8080/hasan/hasan123/16041
 #EXTINF:-1,ZESTE (FR)
 http://www.magicoiptv.org:8080/hasan/hasan123/16043
 #EXTINF:-1,|DE| Sky Sport 1 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1800
-#EXTINF:-1,DE: Sky Select Premiere 9 FHD
-http://www.magicoiptv.org:8080/hasan/hasan123/19532
-#EXTINF:-1,DE: Sky Select Premiere 13 FHD
-http://www.magicoiptv.org:8080/hasan/hasan123/19536
 #EXTINF:-1,BE VIP: VTM 2 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/72238
 #EXTINF:-1,BE VIP: VTM 3
@@ -1810,16 +1698,10 @@ http://www.magicoiptv.org:8080/hasan/hasan123/72239
 http://www.magicoiptv.org:8080/hasan/hasan123/72244
 #EXTINF:-1,BE VIP: Q2 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/72247
-#EXTINF:-1,BE VIP: CAZ
-http://www.magicoiptv.org:8080/hasan/hasan123/72250
-#EXTINF:-1,BE VIP: ELEVENSPORT 2 (FR)
-http://www.magicoiptv.org:8080/hasan/hasan123/72267
 #EXTINF:-1,BE VIP: ELEVENSPORT 3 (FR)
 http://www.magicoiptv.org:8080/hasan/hasan123/72269
 #EXTINF:-1,BE VIP: PLAY SPORTS 5
 http://www.magicoiptv.org:8080/hasan/hasan123/72278
-#EXTINF:-1,BE VIP: VOO SPORT WORLD 2 FHD
-http://www.magicoiptv.org:8080/hasan/hasan123/72291
 #EXTINF:-1,|YEM| Yemen Education
 http://www.magicoiptv.org:8080/hasan/hasan123/74219
 #EXTINF:-1,Ro: Romania
@@ -2040,10 +1922,6 @@ https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten TV Drama Switzerland (720p)
 https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten TV Family Germany (720p)
-https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten TV Family Switzerland (720p)
-https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten TV Spotlight Austria (720p)
 https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Rakuten TV Spotlight Germany (720p)
@@ -2102,5 +1980,3 @@ https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1,World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-
-
