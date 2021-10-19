@@ -296,8 +296,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/177
 http://www.magicoiptv.org:8080/hasan/hasan123/178
 #EXTINF:-1,|FR| BeIN Sports MAX 7
 http://www.magicoiptv.org:8080/hasan/hasan123/179
-#EXTINF:-1,|FR| BeIN Sports MAX 8
-http://www.magicoiptv.org:8080/hasan/hasan123/180
 #EXTINF:-1,|FR| BeIN Sports MAX 9
 http://www.magicoiptv.org:8080/hasan/hasan123/181
 #EXTINF:-1,|FR| BeIN Sports MAX 10
@@ -372,8 +370,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/223
 http://www.magicoiptv.org:8080/hasan/hasan123/224
 #EXTINF:-1,|FR| l'Equipe 21 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/233
-#EXTINF:-1,===== DECOUVERTES =====
-http://www.magicoiptv.org:8080/hasan/hasan123/240
 #EXTINF:-1,|FR| CRIME DISTRICT HD
 http://www.magicoiptv.org:8080/hasan/hasan123/243
 #EXTINF:-1,|FR| DISCOVERY HD
@@ -732,8 +728,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/557
 http://www.magicoiptv.org:8080/hasan/hasan123/558
 #EXTINF:-1,[ES] COSMO HD
 http://www.magicoiptv.org:8080/hasan/hasan123/560
-#EXTINF:-1,[ES] Murcia
-http://www.magicoiptv.org:8080/hasan/hasan123/561
 #EXTINF:-1,[ES] VIAJAR HD
 http://www.magicoiptv.org:8080/hasan/hasan123/562
 #EXTINF:-1,[ES] PARAMOUNT
@@ -764,8 +758,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/580
 http://www.magicoiptv.org:8080/hasan/hasan123/581
 #EXTINF:-1,[ES] BLAZE
 http://www.magicoiptv.org:8080/hasan/hasan123/583
-#EXTINF:-1,US: ACTIONMAX
-http://www.magicoiptv.org:8080/hasan/hasan123/588
 #EXTINF:-1,US: CINEMAX EAST
 http://www.magicoiptv.org:8080/hasan/hasan123/589
 #EXTINF:-1,US: EPIX HITS
@@ -796,12 +788,8 @@ http://www.magicoiptv.org:8080/hasan/hasan123/629
 http://www.magicoiptv.org:8080/hasan/hasan123/655
 #EXTINF:-1,US: NBC ATLANTA HD
 http://www.magicoiptv.org:8080/hasan/hasan123/659
-#EXTINF:-1,US: A&E
-http://www.magicoiptv.org:8080/hasan/hasan123/661
 #EXTINF:-1,US: AMERICAN HEROES CHANNEL
 http://www.magicoiptv.org:8080/hasan/hasan123/663
-#EXTINF:-1,US: ANIMAL PLANET EAST
-http://www.magicoiptv.org:8080/hasan/hasan123/664
 #EXTINF:-1,US: DISNEY CHANNEL EAST
 http://www.magicoiptv.org:8080/hasan/hasan123/680
 #EXTINF:-1,US: WWE Network HD
@@ -1082,8 +1070,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1191
 http://www.magicoiptv.org:8080/hasan/hasan123/1192
 #EXTINF:-1,CA | CPAC
 http://www.magicoiptv.org:8080/hasan/hasan123/1193
-#EXTINF:-1,CA | CTV News Channel
-http://www.magicoiptv.org:8080/hasan/hasan123/1194
 #EXTINF:-1,CA | Disney
 http://www.magicoiptv.org:8080/hasan/hasan123/1199
 #EXTINF:-1,CA | FOX
@@ -1094,8 +1080,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1205
 http://www.magicoiptv.org:8080/hasan/hasan123/1206
 #EXTINF:-1,CA | HBO 1 CA
 http://www.magicoiptv.org:8080/hasan/hasan123/1208
-#EXTINF:-1,CA | History
-http://www.magicoiptv.org:8080/hasan/hasan123/1210
 #EXTINF:-1,CA | National Geographic
 http://www.magicoiptv.org:8080/hasan/hasan123/1212
 #EXTINF:-1,CA | Slice
@@ -1164,8 +1148,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1470
 http://www.magicoiptv.org:8080/hasan/hasan123/1471
 #EXTINF:-1,KSA: KSA SPORTS 1 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1477
-#EXTINF:-1,KSA: Al Ekhbaria HD
-http://www.magicoiptv.org:8080/hasan/hasan123/1481
 #EXTINF:-1,KSA: Resala HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1482
 #EXTINF:-1,KSA: SAUDI MUBASHER HD
@@ -1194,16 +1176,12 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1501
 http://www.magicoiptv.org:8080/hasan/hasan123/1502
 #EXTINF:-1,MYHD-MBC-BOLLYWOOD
 http://www.magicoiptv.org:8080/hasan/hasan123/1504
-#EXTINF:-1,MYHD-MBC-DRAMA-HD
-http://www.magicoiptv.org:8080/hasan/hasan123/1505
 #EXTINF:-1,MYHD-MBC-MAX-HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1506
 #EXTINF:-1,MYHD-MBC-PLUS-DRAMA
 http://www.magicoiptv.org:8080/hasan/hasan123/1507
 #EXTINF:-1,MYHD-MBC-PLUS-VARIETY
 http://www.magicoiptv.org:8080/hasan/hasan123/1508
-#EXTINF:-1,MYHD-NAT-GEO-HD
-http://www.magicoiptv.org:8080/hasan/hasan123/1510
 #EXTINF:-1,MYHD-FOX Life
 http://www.magicoiptv.org:8080/hasan/hasan123/1516
 #EXTINF:-1,MYHD-FOX Crime
@@ -1218,8 +1196,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/1646
 http://www.magicoiptv.org:8080/hasan/hasan123/1651
 #EXTINF:-1,UK: BT Sports 2 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1928
-#EXTINF:-1,UK: BT Sports 3 HD
-http://www.magicoiptv.org:8080/hasan/hasan123/1929
 #EXTINF:-1,UK: Sky Sports Mix HD
 http://www.magicoiptv.org:8080/hasan/hasan123/1942
 #EXTINF:-1,UK: Sky Sports News HD
@@ -1262,10 +1238,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/2669
 http://www.magicoiptv.org:8080/hasan/hasan123/2672
 #EXTINF:-1,VIP ES: FOX MOVIES (HD)
 http://www.magicoiptv.org:8080/hasan/hasan123/2673
-#EXTINF:-1,UK: PREMIER SPORTS 2
-http://www.magicoiptv.org:8080/hasan/hasan123/2835
-#EXTINF:-1,UK: 4 Seven | UHD
-http://www.magicoiptv.org:8080/hasan/hasan123/2836
 #EXTINF:-1,UK: Box Nation | UHD
 http://www.magicoiptv.org:8080/hasan/hasan123/2838
 #EXTINF:-1,UK: Colors | SD
@@ -1358,18 +1330,12 @@ http://www.magicoiptv.org:8080/hasan/hasan123/12243
 http://www.magicoiptv.org:8080/hasan/hasan123/12246
 #EXTINF:-1,NL: DISCOVERY
 http://www.magicoiptv.org:8080/hasan/hasan123/12258
-#EXTINF:-1,NL: RTL LOUNGE
-http://www.magicoiptv.org:8080/hasan/hasan123/12264
 #EXTINF:-1,NL: 192 TV
 http://www.magicoiptv.org:8080/hasan/hasan123/12273
 #EXTINF:-1,NL: FAMILY 7
 http://www.magicoiptv.org:8080/hasan/hasan123/12278
 #EXTINF:-1,NL: BBC FIRST
 http://www.magicoiptv.org:8080/hasan/hasan123/12282
-#EXTINF:-1,NL: KETNET
-http://www.magicoiptv.org:8080/hasan/hasan123/12327
-#EXTINF:-1,NL: NICK JR.
-http://www.magicoiptv.org:8080/hasan/hasan123/12328
 #EXTINF:-1,NL: TV DRENTHE
 http://www.magicoiptv.org:8080/hasan/hasan123/12340
 #EXTINF:-1,NL: Den Haag TV
@@ -1570,8 +1536,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/72238
 http://www.magicoiptv.org:8080/hasan/hasan123/72244
 #EXTINF:-1,BE VIP: Q2 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/72247
-#EXTINF:-1,BE VIP: ELEVENSPORT 3 (FR)
-http://www.magicoiptv.org:8080/hasan/hasan123/72269
 #EXTINF:-1,BE VIP: PLAY SPORTS 5
 http://www.magicoiptv.org:8080/hasan/hasan123/72278
 #EXTINF:-1,Ro: Romania
@@ -1586,28 +1550,12 @@ http://www.magicoiptv.org:8080/hasan/hasan123/74885
 http://www.magicoiptv.org:8080/hasan/hasan123/74987
 #EXTINF:-1,RO | National 24
 http://www.magicoiptv.org:8080/hasan/hasan123/74992
-#EXTINF:-1,RO | Paramount Channel
-http://www.magicoiptv.org:8080/hasan/hasan123/74996
-#EXTINF:-1,RO | PRO Cinema
-http://www.magicoiptv.org:8080/hasan/hasan123/74998
-#EXTINF:-1,RO | PRO TV
-http://www.magicoiptv.org:8080/hasan/hasan123/74999
-#EXTINF:-1,RO | Realitatea TV
-http://www.magicoiptv.org:8080/hasan/hasan123/75001
-#EXTINF:-1,RO | ROmania TV
-http://www.magicoiptv.org:8080/hasan/hasan123/75002
-#EXTINF:-1,RO | Sport
-http://www.magicoiptv.org:8080/hasan/hasan123/75003
 #EXTINF:-1,RO | TNT
 http://www.magicoiptv.org:8080/hasan/hasan123/75009
-#EXTINF:-1,RO | TV1000
-http://www.magicoiptv.org:8080/hasan/hasan123/75013
 #EXTINF:-1,RO | TVR1
 http://www.magicoiptv.org:8080/hasan/hasan123/75015
 #EXTINF:-1,RO | TVR2
 http://www.magicoiptv.org:8080/hasan/hasan123/75016
-#EXTINF:-1,RO | UTV
-http://www.magicoiptv.org:8080/hasan/hasan123/75018
 #EXTINF:-1,RO | VH1 Classic
 http://www.magicoiptv.org:8080/hasan/hasan123/75020
 #EXTINF:-1,AR:  Al Majd Hadith
@@ -1716,10 +1664,6 @@ https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
 #EXTINF:-1,P3tv (720p) [Not 24/7]
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:-1,Parlamentsfernsehen 1 (1080p) [Not 24/7]
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1,Parlamentsfernsehen 2 (1080p) [Not 24/7]
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:-1,Pluto TV Auto Motor Sport (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV Beyblade Burst Nick (480p)
