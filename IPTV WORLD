@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 ,IN | STAR SPORTS 1 FHD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/83997
 #EXTINF:-1 ,IN | STAR SPORTS 1 FHD
@@ -65,8 +66,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87354
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87383
 #EXTINF:-1 ,IN| Music Masti
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87285
-#EXTINF:-1 ,IN| National Geographic
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87343
 #EXTINF:-1 ,IN| Neo News HD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/87349
 #EXTINF:-1 ,IN| News One
@@ -235,8 +234,6 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79773
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79774
 #EXTINF:-1 ,|BD| Deshe Bideshe TV BD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79775
-#EXTINF:-1 ,|BD| Deshi TV BD
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79776
 #EXTINF:-1 ,|BD| ETV BD
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/79780
 #EXTINF:-1 ,|BD| Gaan BD
@@ -289,8 +286,6 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checke
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://127.0.0.1/",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://127.0.0.1/",Kaumudy TV
-http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://127.0.0.1/",Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="http://127.0.0.1/",Desi Channel
@@ -359,8 +354,6 @@ http://jo123.biz/jweb/m3u8.php?c=CNBC_Awaaz&q=600&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=CNBC_Tv18_Prime_HD&q=600&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png",Sarv Dharam Sangam
 http://jo123.biz/jweb/m3u8.php?c=Sarv_Dharam_Sangam&q=600&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Katyayani.png",Katyayani
-http://jo123.biz/jweb/m3u8.php?c=Katyayani&q=600&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png",Swar Shree
 http://jo123.biz/jweb/m3u8.php?c=Garv_Swaminarayan&q=600&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png",Hare krsna
@@ -397,8 +390,6 @@ http://jo123.biz/jweb/m3u8.php?c=Arihant_TV&q=600&e=junk.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sanskar&q=600&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 http://jo123.biz/jweb/m3u8.php?c=Aastha&q=600&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Atmadarshan_TV.png",Aatmadarshan TV
-http://jo123.biz/jweb/m3u8.php?c=Atmadarshan_TV&q=600&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jigyasa_TV.png",Jigyasa TV
 http://jo123.biz/jweb/m3u8.php?c=Jigyasa_TV&q=600&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Devotional" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sanatan_TV.png",Sanatan TV
@@ -501,8 +492,6 @@ https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 ,Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,bspoketv (720p) [Not 24/7]
-https://bspoketv.s.llnwi.net/streams/322/master.m3u8
 #EXTINF:-1 ,#1 (480p)
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/0d14dc99-cc30-4c0e-8531-40cdfe650694/1.m3u8
 #EXTINF:-1 ,Bumblebee TV Docs Channel (720p)
@@ -517,8 +506,6 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 #EXTINF:-1 ,BUTV10 (Boston University) (1080p)
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 ,Buzzr (KCKS-LD1) (480p)
-https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 ,C31 Melbourne (480p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 ,C-SPAN (108p)
@@ -677,8 +664,6 @@ http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 ,Dallas Cowboy Cheerleaders (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 ,Danger TV (720p)
-https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Dark Matter TV (720p)
 https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,DC Council Channel (1080p)
@@ -709,8 +694,6 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8
 #EXTINF:-1 ,Dust (720p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
-#EXTINF:-1 ,Dust (720p)
-https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DUSTx (720p)
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,DW English (1080p)
@@ -775,8 +758,6 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Fashion TV PG16 (1080p)
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 ,FashionTV Czech&Slovak (450p)
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 ,Fat Guys in the Woods (720p)
 https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
 #EXTINF:-1 ,Fear This! (720p)
@@ -955,8 +936,6 @@ https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 ,HNC Free (1080p)
 https://hncfree-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Holly Wire (720p)
-https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Hope Channel Norge (540p)
 http://media1.adventist.no:1935/live/hope1/playlist.m3u8
 #EXTINF:-1 ,Horror Machine (720p)
@@ -979,8 +958,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 ,JBS (404p)
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 ,Jewelry TV (KCKS-LD12) (480p)
-https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 #EXTINF:-1 ,Jewish Life TV (480p) [Not 24/7]
 https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 ,Johnny Carson TV (1080p)
@@ -1143,8 +1120,6 @@ https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 #EXTINF:-1 ,Motorvision (XUMO) (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
-#EXTINF:-1 ,MovieMix (720p)
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,MovieSphere (1080p)
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MST3K (1080p)
@@ -1205,8 +1180,6 @@ https://cheddar-news12ny-1.plex.wurl.com/manifest/playlist.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
 #EXTINF:-1 ,NewsNet (720p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-#EXTINF:-1 ,NewsNet (KCKS-LD2) (480p)
-https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
 #EXTINF:-1 ,Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 ,Newsy Top Stories (720p)
@@ -1313,8 +1286,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Players TV (1080p)
 https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Pluto TV 21 Jump Street (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV 70s Cinema (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV 80s Rewind (684p)
@@ -1497,8 +1468,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Conspiracy (England) (480p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4ae94ef1a1bbb350ca41bb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
-#EXTINF:-1 ,Pluto TV Cookalong (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc297672961b0009f12e5b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Cops (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e1f7e089f23700009d66303&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=367&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Court TV (720p) [Not 24/7]
@@ -1709,8 +1678,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf03
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e181520cfa000771ce79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=147&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV MADE In Britain (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e14486590ba3e0009d912ff/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV Mario vs Sonic (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc02ece31f6050009de4b39&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=7ecc4d45-0714-11eb-9b92-0242ac110002&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV McLeod's Daughters (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18e5df6dd1d0007cf7bad/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Midsomer Murders (720p)
@@ -1847,8 +1814,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b36abcddfb1f0729a3a7dab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b36abcddfb1f0729a3a7dab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=899&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Pro Wrestling (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV Pursuit UP (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486bed428fe37d8cadba45&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=756&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Reality (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8bf0b06d2d855ee15115e3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=275&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Rescue 911 (720p)
@@ -1927,8 +1892,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5637d31f319573e26b64040b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=468&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Star Trek (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd39f8c4ce900075d7698&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=150&terminate=false&userId=
-#EXTINF:-1 ,Pluto TV Storage Wars (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede464e7be0030007c58b73/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede464e7be0030007c58b73&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5922d945-0586-11eb-a59f-0242ac110002&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Stories by AMC (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Strongman (720p)
@@ -2067,8 +2030,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
 #EXTINF:-1 ,Pop (1080p)
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 ,Power Nation (720p)
-https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Press TV English (720p)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 ,Press TV French (720p) [Not 24/7]
@@ -2141,8 +2102,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 ,Retro TV (720p)
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:-1 ,Retro TV (KCKS-LD9) (480p)
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:-1 ,RetroCrush TV (1080p)
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush
 #EXTINF:-1 ,RetroCrush TV (720p)
@@ -2157,8 +2116,6 @@ https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
 #EXTINF:-1 ,Rev'n (720p)
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:-1 ,Rev'n (KCKS-LD7) (480p)
-https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1 ,Revry (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
 #EXTINF:-1 ,Revry News (720p)
@@ -2167,8 +2124,6 @@ https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 ,Rialto (1080p)
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,RiffTrax (720p)
-https://rifftrax.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Ring of Honor Wrestling (720p)
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Rooster Teeth TV (1080p)
@@ -2207,8 +2162,6 @@ http://tv.sheffieldlive.org/hls/main.m3u8
 https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
 #EXTINF:-1 ,Shop LC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1 ,Shop LC (KCKS-LD10) (480p) [Not 24/7]
-https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 #EXTINF:-1 ,Shout! Factory TV (1080p)
 http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Showtime at the Apollo (432p)
@@ -2585,8 +2538,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d0009
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 ,The Carol Burnett Show (1080p)
 https://carolburnett-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,The Channel TV (1080p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
 #EXTINF:-1 ,The Craftistry (1080p)
 https://studio71-craftistry-roku.amagi.tv/hls/amagi_hls_data_studio71A-craftistry-rokuA/CDN/playlist.m3u8
 #EXTINF:-1 ,The Design Network (720p)
@@ -2619,10 +2570,6 @@ https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #EXTINF:-1 ,The Young Turks (TYT) (1080p)
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:-1 ,This Old House (720p)
-https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,This TV Network (480p)
-https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 ,Thrill (480p) [Geo-blocked]
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,Thrill [Geo-blocked]
@@ -2659,8 +2606,6 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 ,TV Classics (720p)
 https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
-#EXTINF:-1 ,TV Panou (720p) [Not 24/7]
-http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 ,TVOKids (360p) [Not 24/7]
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 ,TVRI Kanal 3 (480p)
@@ -2739,8 +2684,6 @@ https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 ,Unbeaten (1080p)
 https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
-#EXTINF:-1 ,Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
-https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 #EXTINF:-1 ,USA Today (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
 #EXTINF:-1 ,Uvagut TV (720p)
@@ -2791,8 +2734,6 @@ https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Weather Gone Viral (720p)
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
-#EXTINF:-1 ,WeatherNation (KCKS-LD6) (480p) [Not 24/7]
-https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 ,WeatherSpy (1080p)
 https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Weatherspy (720p)
