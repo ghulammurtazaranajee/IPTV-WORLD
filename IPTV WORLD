@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 ,MAR.ELAAYOUN
 http://stariptv.org:8080/wael2021/123456/14981
 #EXTINF:-1 ,MAR.AL AOULA INTER
@@ -62,8 +61,6 @@ http://stariptv.org:8080/wael2021/123456/100522
 http://stariptv.org:8080/wael2021/123456/100525
 #EXTINF:-1 ,MAR.Al Oula TV FHD hevc
 http://stariptv.org:8080/wael2021/123456/100529
-#EXTINF:-1 ,DZ.Awraas TV
-http://stariptv.org:8080/wael2021/123456/66413
 #EXTINF:-1 ,DZ.ALFADJR TV
 http://stariptv.org:8080/wael2021/123456/14876
 #EXTINF:-1 ,DZ.ALGERIE 4
@@ -152,8 +149,6 @@ http://stariptv.org:8080/wael2021/123456/14835
 http://stariptv.org:8080/wael2021/123456/14838
 #EXTINF:-1 ,LBY.Libya Febrayer TV
 http://stariptv.org:8080/wael2021/123456/21205
-#EXTINF:-1 ,LBY.LIbya
-http://stariptv.org:8080/wael2021/123456/21202
 #EXTINF:-1 ,LBY.LLibya TV
 http://stariptv.org:8080/wael2021/123456/21162
 #EXTINF:-1 ,LBY.ALNABAA
@@ -168,8 +163,6 @@ http://stariptv.org:8080/wael2021/123456/122825
 http://stariptv.org:8080/wael2021/123456/122826
 #EXTINF:-1 ,SU: Sudan Kassala TV
 http://stariptv.org:8080/wael2021/123456/122828
-#EXTINF:-1 ,SU: Sudan Bukra
-http://stariptv.org:8080/wael2021/123456/122830
 #EXTINF:-1 ,SU: Sudan Al Barlemania
 http://stariptv.org:8080/wael2021/123456/122833
 #EXTINF:-1 ,SU: Sudan El Mahadra
@@ -202,12 +195,8 @@ http://stariptv.org:8080/wael2021/123456/112581
 http://stariptv.org:8080/wael2021/123456/112584
 #EXTINF:-1 ,AR: Al Saha TV
 http://stariptv.org:8080/wael2021/123456/112585
-#EXTINF:-1 ,AR: Minbij TV
-http://stariptv.org:8080/wael2021/123456/112586
 #EXTINF:-1 ,AR: B4U Plus HD
 http://stariptv.org:8080/wael2021/123456/112587
-#EXTINF:-1 ,AR: Al moosawi TV
-http://stariptv.org:8080/wael2021/123456/112588
 #EXTINF:-1 ,AR: Al wilayah TV
 http://stariptv.org:8080/wael2021/123456/112589
 #EXTINF:-1 ,AR: UTV HD
@@ -224,8 +213,6 @@ http://stariptv.org:8080/wael2021/123456/112596
 http://stariptv.org:8080/wael2021/123456/112597
 #EXTINF:-1 ,AR: MEA TV National
 http://stariptv.org:8080/wael2021/123456/112598
-#EXTINF:-1 ,AR: Imam Reda HD
-http://stariptv.org:8080/wael2021/123456/112600
 #EXTINF:-1 ,AR: AL MUSTAKILA
 http://stariptv.org:8080/wael2021/123456/112601
 #EXTINF:-1 ,IQ- AL Anbar TV
@@ -238,8 +225,6 @@ http://stariptv.org:8080/wael2021/123456/112607
 http://stariptv.org:8080/wael2021/123456/112608
 #EXTINF:-1 ,AR: Al Anwar
 http://stariptv.org:8080/wael2021/123456/112609
-#EXTINF:-1 ,AR: Salahaden Tv
-http://stariptv.org:8080/wael2021/123456/112611
 #EXTINF:-1 ,AR: Al Mawsleya
 http://stariptv.org:8080/wael2021/123456/112612
 #EXTINF:-1 ,AR: Al-Shaaer TV
@@ -262,8 +247,6 @@ http://stariptv.org:8080/wael2021/123456/112623
 http://stariptv.org:8080/wael2021/123456/112624
 #EXTINF:-1 ,AR: ALSALAM
 http://stariptv.org:8080/wael2021/123456/112627
-#EXTINF:-1 ,AR: Taleaa TV
-http://stariptv.org:8080/wael2021/123456/112630
 #EXTINF:-1 ,AR: Altaghier
 http://stariptv.org:8080/wael2021/123456/112631
 #EXTINF:-1 ,AR: AL KAWTHAR
@@ -290,60 +273,18 @@ http://stariptv.org:8080/wael2021/123456/66389
 http://stariptv.org:8080/wael2021/123456/150160
 #EXTINF:-1 ,beIN 1 PREMIUM HD
 http://stariptv.org:8080/wael2021/123456/15563
-#EXTINF:-1 ,beIN 2 PREMIUM HD
-http://stariptv.org:8080/wael2021/123456/15562
-#EXTINF:-1 ,beIN 3 PREMIUM HD
-http://stariptv.org:8080/wael2021/123456/15561
 #EXTINF:-1 ,AR: beIN EXTRA 1 HD
 http://stariptv.org:8080/wael2021/123456/15721
-#EXTINF:-1 ,AR: beIN EXTRA 2 HD
-http://stariptv.org:8080/wael2021/123456/15722
 #EXTINF:-1 ,AR: beIN 1 HD
 http://stariptv.org:8080/wael2021/123456/15560
-#EXTINF:-1 ,AR: beIN 2 HD
-http://stariptv.org:8080/wael2021/123456/15559
-#EXTINF:-1 ,AR: beIN 3 HD
-http://stariptv.org:8080/wael2021/123456/15558
 #EXTINF:-1 ,AR: beIN 4 HD
 http://stariptv.org:8080/wael2021/123456/15557
 #EXTINF:-1 ,AR: beIN 5 HD
 http://stariptv.org:8080/wael2021/123456/15556
-#EXTINF:-1 ,AR: beIN 6 HD
-http://stariptv.org:8080/wael2021/123456/15555
-#EXTINF:-1 ,AR: beIN 7 HD
-http://stariptv.org:8080/wael2021/123456/15720
 #EXTINF:-1 ,AR: beIN 1 EN HD
 http://stariptv.org:8080/wael2021/123456/112461
 #EXTINF:-1 ,AR: beIN 2 EN HD
 http://stariptv.org:8080/wael2021/123456/112462
-#EXTINF:-1 ,AR: beIN 3 EN HD
-http://stariptv.org:8080/wael2021/123456/112463
-#EXTINF:-1 ,AR: beIN 1 FR HD
-http://stariptv.org:8080/wael2021/123456/112464
-#EXTINF:-1 ,AR: beIN 2 FR HD
-http://stariptv.org:8080/wael2021/123456/112465
-#EXTINF:-1 ,AR: beIN 3 FR HD
-http://stariptv.org:8080/wael2021/123456/112466
-#EXTINF:-1 ,AR: beIN News HD
-http://stariptv.org:8080/wael2021/123456/22185
-#EXTINF:-1 ,AR: beIN SPORT HD
-http://stariptv.org:8080/wael2021/123456/22186
-#EXTINF:-1 ,OSN: YA HALA HD
-http://stariptv.org:8080/wael2021/123456/55960
-#EXTINF:-1 ,OSN: YA HALA Al Oula HD
-http://stariptv.org:8080/wael2021/123456/55961
-#EXTINF:-1 ,OSN: OSN Yahala Cinema HD
-http://stariptv.org:8080/wael2021/123456/70575
-#EXTINF:-1 ,OSN: YAHALA CINEMA
-http://stariptv.org:8080/wael2021/123456/55962
-#EXTINF:-1 ,OSN: OSN ALFA MOSALSALAT 1
-http://stariptv.org:8080/wael2021/123456/70577
-#EXTINF:-1 ,OSN: OSN ALFA MOSALSALAT 2
-http://stariptv.org:8080/wael2021/123456/70578
-#EXTINF:-1 ,OSN: ALFA ALYOUM HD
-http://stariptv.org:8080/wael2021/123456/55978
-#EXTINF:-1 ,OSN: OSN ALFA AL SAFWA
-http://stariptv.org:8080/wael2021/123456/70576
 #EXTINF:-1 ,OSN: OSN ALFA MUSIC NOW
 http://stariptv.org:8080/wael2021/123456/70579
 #EXTINF:-1 ,OSN: OSN ALFA FANN HD
@@ -352,28 +293,6 @@ http://stariptv.org:8080/wael2021/123456/70580
 http://stariptv.org:8080/wael2021/123456/55979
 #EXTINF:-1 ,OSN: ALFA Cinema 2 HD
 http://stariptv.org:8080/wael2021/123456/55980
-#EXTINF:-1 ,OSN: WWE FHD
-http://stariptv.org:8080/wael2021/123456/92311
-#EXTINF:-1 ,OSN: MOVIES FIRST HD
-http://stariptv.org:8080/wael2021/123456/55934
-#EXTINF:-1 ,OSN: MOVIES  FIRST +2 HD
-http://stariptv.org:8080/wael2021/123456/55935
-#EXTINF:-1 ,OSN: MOVIES HD
-http://stariptv.org:8080/wael2021/123456/55939
-#EXTINF:-1 ,OSN: MOVIES ACTION HD
-http://stariptv.org:8080/wael2021/123456/55940
-#EXTINF:-1 ,OSN: MOVIES BINGI
-http://stariptv.org:8080/wael2021/123456/55941
-#EXTINF:-1 ,OSN: MOVIES Disney HD
-http://stariptv.org:8080/wael2021/123456/55942
-#EXTINF:-1 ,OSN: MOVIES ENGIMA HD
-http://stariptv.org:8080/wael2021/123456/55943
-#EXTINF:-1 ,OSN: MOVIES KIDS HD
-http://stariptv.org:8080/wael2021/123456/55944
-#EXTINF:-1 ,OSN: SERIES COMEDY HD
-http://stariptv.org:8080/wael2021/123456/55953
-#EXTINF:-1 ,OSN Series HD
-http://stariptv.org:8080/wael2021/123456/92309
 #EXTINF:-1 ,OSN: SERIES FIRST HD
 http://stariptv.org:8080/wael2021/123456/55954
 #EXTINF:-1 ,OSN: STAR MOVIES HD
@@ -384,22 +303,6 @@ http://stariptv.org:8080/wael2021/123456/55957
 http://stariptv.org:8080/wael2021/123456/55926
 #EXTINF:-1 ,OSN Crime Investigation
 http://stariptv.org:8080/wael2021/123456/93219
-#EXTINF:-1 ,OSN Kids HD
-http://stariptv.org:8080/wael2021/123456/92313
-#EXTINF:-1 ,OSN: BABY HD
-http://stariptv.org:8080/wael2021/123456/55923
-#EXTINF:-1 ,OSN: DISNEY CHANNEL HD
-http://stariptv.org:8080/wael2021/123456/55931
-#EXTINF:-1 ,OSN: DISNEY JUNIOR HD
-http://stariptv.org:8080/wael2021/123456/55932
-#EXTINF:-1 ,OSN: KIDS ZONE HD
-http://stariptv.org:8080/wael2021/123456/55937
-#EXTINF:-1 ,OSN: NICK JR HD
-http://stariptv.org:8080/wael2021/123456/55949
-#EXTINF:-1 ,OSN: NICKELODEON HD
-http://stariptv.org:8080/wael2021/123456/55950
-#EXTINF:-1 ,OSN: NickToons HD
-http://stariptv.org:8080/wael2021/123456/70582
 #EXTINF:-1 ,OSN Discovery IDX HD
 http://stariptv.org:8080/wael2021/123456/92306
 #EXTINF:-1 ,OSN: DISCOVERY CHANNEL
@@ -426,8 +329,6 @@ http://stariptv.org:8080/wael2021/123456/92310
 http://stariptv.org:8080/wael2021/123456/92312
 #EXTINF:-1 ,OSN Enigma HD
 http://stariptv.org:8080/wael2021/123456/92314
-#EXTINF:-1 ,OSN Play FHD
-http://stariptv.org:8080/wael2021/123456/92316
 #EXTINF:-1 ,OSN GINX Esports VIP
 http://stariptv.org:8080/wael2021/123456/92317
 #EXTINF:-1 ,OSN: E! HD
@@ -436,14 +337,6 @@ http://stariptv.org:8080/wael2021/123456/55933
 http://stariptv.org:8080/wael2021/123456/55938
 #EXTINF:-1 ,OSN: COMEDY
 http://stariptv.org:8080/wael2021/123456/55981
-#EXTINF:-1 ,beIN MOVIES FAMILY
-http://stariptv.org:8080/wael2021/123456/131987
-#EXTINF:-1 ,beIN MOVIES DRAMA
-http://stariptv.org:8080/wael2021/123456/131988
-#EXTINF:-1 ,beIN MOVIES ACTION
-http://stariptv.org:8080/wael2021/123456/131989
-#EXTINF:-1 ,beIN MOVIES Premiere
-http://stariptv.org:8080/wael2021/123456/131990
 #EXTINF:-1 ,beIN SERIES HD1
 http://stariptv.org:8080/wael2021/123456/131991
 #EXTINF:-1 ,beIN SERIES HD2
@@ -538,18 +431,12 @@ http://stariptv.org:8080/wael2021/123456/130434
 http://stariptv.org:8080/wael2021/123456/130435
 #EXTINF:-1 ,NETFLIX SERIES ARABI
 http://stariptv.org:8080/wael2021/123456/130342
-#EXTINF:-1 ,NETFLIX Discovery
-http://stariptv.org:8080/wael2021/123456/130341
 #EXTINF:-1 ,NETFLIX عربي
 http://stariptv.org:8080/wael2021/123456/107026
-#EXTINF:-1 ,NETFLIX ACTION
-http://stariptv.org:8080/wael2021/123456/107027
 #EXTINF:-1 ,NETFLIX PLAYS
 http://stariptv.org:8080/wael2021/123456/107028
 #EXTINF:-1 ,NETFLIX BOX OFFICE
 http://stariptv.org:8080/wael2021/123456/107029
-#EXTINF:-1 ,NETFLIX SERIES
-http://stariptv.org:8080/wael2021/123456/107030
 #EXTINF:-1 ,NETFLIX COMEDY
 http://stariptv.org:8080/wael2021/123456/107031
 #EXTINF:-1 ,NETFLIX HORROR
@@ -672,10 +559,6 @@ http://stariptv.org:8080/wael2021/123456/130485
 http://stariptv.org:8080/wael2021/123456/130486
 #EXTINF:-1 ,Ostora Arabic 7
 http://stariptv.org:8080/wael2021/123456/130487
-#EXTINF:-1 ,Ostora Arabic 8
-http://stariptv.org:8080/wael2021/123456/130488
-#EXTINF:-1 ,Wayyak- Drama HD
-http://stariptv.org:8080/wael2021/123456/129676
 #EXTINF:-1 ,Wayyak- Mix HD
 http://stariptv.org:8080/wael2021/123456/129677
 #EXTINF:-1 ,Wayyak- Comedy HD
@@ -744,8 +627,6 @@ http://stariptv.org:8080/wael2021/123456/43609
 http://stariptv.org:8080/wael2021/123456/43608
 #EXTINF:-1 ,AR: MH action 1
 http://stariptv.org:8080/wael2021/123456/43668
-#EXTINF:-1 ,AR: MH action 2
-http://stariptv.org:8080/wael2021/123456/43667
 #EXTINF:-1 ,AR: MH FALAM 1
 http://stariptv.org:8080/wael2021/123456/43658
 #EXTINF:-1 ,AR: MH FALAM 2
@@ -802,8 +683,6 @@ http://stariptv.org:8080/wael2021/123456/43619
 http://stariptv.org:8080/wael2021/123456/43618
 #EXTINF:-1 ,AR: beoutQ AFALAM HD H265
 http://stariptv.org:8080/wael2021/123456/43694
-#EXTINF:-1 ,GOBX REEL PX FAMILY
-http://stariptv.org:8080/wael2021/123456/100394
 #EXTINF:-1 ,GOBX REEL PX COMEDY
 http://stariptv.org:8080/wael2021/123456/100395
 #EXTINF:-1 ,GOBX REEL PX unlimited
@@ -812,8 +691,6 @@ http://stariptv.org:8080/wael2021/123456/100396
 http://stariptv.org:8080/wael2021/123456/100409
 #EXTINF:-1 ,GOBX TDC
 http://stariptv.org:8080/wael2021/123456/65656
-#EXTINF:-1 ,GOBX FIGHT BOX
-http://stariptv.org:8080/wael2021/123456/65655
 #EXTINF:-1 ,GOBX gulli bil arabie
 http://stariptv.org:8080/wael2021/123456/45140
 #EXTINF:-1 ,GOBX FIX FOXi
@@ -826,14 +703,10 @@ http://stariptv.org:8080/wael2021/123456/92748
 http://stariptv.org:8080/wael2021/123456/92747
 #EXTINF:-1 ,GOBX REEL PX CINEMA
 http://stariptv.org:8080/wael2021/123456/92745
-#EXTINF:-1 ,GOBX REEL PX ACTION
-http://stariptv.org:8080/wael2021/123456/92744
 #EXTINF:-1 ,KSA.SSC 1 HD
 http://stariptv.org:8080/wael2021/123456/142041
 #EXTINF:-1 ,KSA.SSC 2 HD
 http://stariptv.org:8080/wael2021/123456/142042
-#EXTINF:-1 ,KSA.SSC 3 HD
-http://stariptv.org:8080/wael2021/123456/142043
 #EXTINF:-1 ,KSA.SSC 4 HD
 http://stariptv.org:8080/wael2021/123456/142044
 #EXTINF:-1 ,KSA.SSC 5 HD
@@ -876,8 +749,6 @@ http://stariptv.org:8080/wael2021/123456/66487
 http://stariptv.org:8080/wael2021/123456/66361
 #EXTINF:-1 ,UAE.DUBAI RACING 1
 http://stariptv.org:8080/wael2021/123456/66362
-#EXTINF:-1 ,UAE.HAWAS TV
-http://stariptv.org:8080/wael2021/123456/66363
 #EXTINF:-1 ,UAE.SHARJAH TV
 http://stariptv.org:8080/wael2021/123456/66366
 #EXTINF:-1 ,UAE.Dubai Racing 3
@@ -1126,10 +997,6 @@ http://stariptv.org:8080/wael2021/123456/111542
 http://stariptv.org:8080/wael2021/123456/111545
 #EXTINF:-1 ,Jo: Kaifa TV
 http://stariptv.org:8080/wael2021/123456/111546
-#EXTINF:-1 ,Jo: Aude TV
-http://stariptv.org:8080/wael2021/123456/111547
-#EXTINF:-1 ,SYR.LANA PLUS
-http://stariptv.org:8080/wael2021/123456/66326
 #EXTINF:-1 ,SYR.SATELLITE TV
 http://stariptv.org:8080/wael2021/123456/66330
 #EXTINF:-1 ,SYR.SHAM FM
@@ -1140,8 +1007,6 @@ http://stariptv.org:8080/wael2021/123456/66332
 http://stariptv.org:8080/wael2021/123456/97867
 #EXTINF:-1 ,SYR.elSouria TV
 http://stariptv.org:8080/wael2021/123456/97868
-#EXTINF:-1 ,SYR.elSouria Plus
-http://stariptv.org:8080/wael2021/123456/97869
 #EXTINF:-1 ,SYR.ALOULA
 http://stariptv.org:8080/wael2021/123456/14966
 #EXTINF:-1 ,SYR.DRAMA
@@ -1154,10 +1019,6 @@ http://stariptv.org:8080/wael2021/123456/21161
 http://stariptv.org:8080/wael2021/123456/14854
 #EXTINF:-1 ,PSE.PNN TV
 http://stariptv.org:8080/wael2021/123456/62039
-#EXTINF:-1 ,PSE.AJYAL TV
-http://stariptv.org:8080/wael2021/123456/62042
-#EXTINF:-1 ,PSE.FALASTINI
-http://stariptv.org:8080/wael2021/123456/62043
 #EXTINF:-1 ,PSE.Radio Watar
 http://stariptv.org:8080/wael2021/123456/100474
 #EXTINF:-1 ,PSE.Palestine News TV
@@ -1178,14 +1039,10 @@ http://stariptv.org:8080/wael2021/123456/14823
 http://stariptv.org:8080/wael2021/123456/14950
 #EXTINF:-1 ,PSE.AWDEH
 http://stariptv.org:8080/wael2021/123456/14758
-#EXTINF:-1 ,PSE.PALESTINE  LIVE
-http://stariptv.org:8080/wael2021/123456/14949
 #EXTINF:-1 ,PSE.Makan TV
 http://stariptv.org:8080/wael2021/123456/14946
 #EXTINF:-1 ,PSE.PALESTINE AlYawm HD
 http://stariptv.org:8080/wael2021/123456/14945
-#EXTINF:-1 ,PSE.Watan TV
-http://stariptv.org:8080/wael2021/123456/14760
 #EXTINF:-1 ,PSE.HALA
 http://stariptv.org:8080/wael2021/123456/14757
 #EXTINF:-1 ,PSE.AL QUDS
@@ -1230,8 +1087,6 @@ http://stariptv.org:8080/wael2021/123456/97905
 http://stariptv.org:8080/wael2021/123456/97906
 #EXTINF:-1 ,Islam.Salaam TV
 http://stariptv.org:8080/wael2021/123456/97907
-#EXTINF:-1 ,Islam.Ahlu Quran TV
-http://stariptv.org:8080/wael2021/123456/97910
 #EXTINF:-1 ,Islam.Assirat TV
 http://stariptv.org:8080/wael2021/123456/97912
 #EXTINF:-1 ,Islam.Al Zahra TV
@@ -1438,8 +1293,6 @@ http://stariptv.org:8080/wael2021/123456/15077
 http://stariptv.org:8080/wael2021/123456/14976
 #EXTINF:-1 ,EGY.AL NAHAR DRAMA
 http://stariptv.org:8080/wael2021/123456/15108
-#EXTINF:-1 ,EGY.Al Malakoot Sat TV
-http://stariptv.org:8080/wael2021/123456/112502
 #EXTINF:-1 ,EGY.Al Hayat Muslsalat TV
 http://stariptv.org:8080/wael2021/123456/97969
 #EXTINF:-1 ,EGY.AL HAYAT
@@ -1540,8 +1393,6 @@ http://stariptv.org:8080/wael2021/123456/97838
 http://stariptv.org:8080/wael2021/123456/130479
 #EXTINF:-1 ,Omr Khirat
 http://stariptv.org:8080/wael2021/123456/130476
-#EXTINF:-1 ,kids.Rotana Kids HD
-http://stariptv.org:8080/wael2021/123456/98024
 #EXTINF:-1 ,kids.Sanafir
 http://stariptv.org:8080/wael2021/123456/98025
 #EXTINF:-1 ,kids.FIX FOXI HD
@@ -1822,11 +1673,8 @@ http://stariptv.org:8080/wael2021/123456/141570
 http://stariptv.org:8080/wael2021/123456/141571
 #EXTINF:-1 ,beIN Sports HD7 FHD
 http://stariptv.org:8080/wael2021/123456/141572
-
 #EXTINF:-1 ,IN: zee cafe HD
 http://stariptv.org:8080/wael2021/123456/108686
-#EXTINF:-1 ,IN: &prive hd
-http://stariptv.org:8080/wael2021/123456/108688
 #EXTINF:-1 ,IN: zee hindustan
 http://stariptv.org:8080/wael2021/123456/89625
 #EXTINF:-1 ,IN: Zee Living
@@ -1855,24 +1703,14 @@ http://stariptv.org:8080/wael2021/123456/99305
 http://stariptv.org:8080/wael2021/123456/99306
 #EXTINF:-1 ,IN: Star Plus UK
 http://stariptv.org:8080/wael2021/123456/99307
-#EXTINF:-1 ,IN: Star Plus
-http://stariptv.org:8080/wael2021/123456/99308
 #EXTINF:-1 ,IN: STAR GOLD SD
 http://stariptv.org:8080/wael2021/123456/99311
-#EXTINF:-1 ,IN: SONY MAX2
-http://stariptv.org:8080/wael2021/123456/99313
-#EXTINF:-1 ,IN: RISHTAY ASIA
-http://stariptv.org:8080/wael2021/123456/99315
 #EXTINF:-1 ,IN: India Today
 http://stariptv.org:8080/wael2021/123456/99319
 #EXTINF:-1 ,IN: Sony six HD
 http://stariptv.org:8080/wael2021/123456/99325
-#EXTINF:-1 ,IN: STAR GOLD HD
-http://stariptv.org:8080/wael2021/123456/99326
 #EXTINF:-1 ,IN: STAR PLUS HD
 http://stariptv.org:8080/wael2021/123456/99329
-#EXTINF:-1 ,IN: HBO
-http://stariptv.org:8080/wael2021/123456/99330
 #EXTINF:-1 ,IN: Zee Cinema HD
 http://stariptv.org:8080/wael2021/123456/99332
 #EXTINF:-1 ,IN: 5aab Today
@@ -1887,16 +1725,12 @@ http://stariptv.org:8080/wael2021/123456/99340
 http://stariptv.org:8080/wael2021/123456/99344
 #EXTINF:-1 ,IN: CAPTAIN TV
 http://stariptv.org:8080/wael2021/123456/99348
-#EXTINF:-1 ,IN: LIVING FOODZ 2
-http://stariptv.org:8080/wael2021/123456/99350
 #EXTINF:-1 ,IN: FOOD FOOD TV
 http://stariptv.org:8080/wael2021/123456/99351
 #EXTINF:-1 ,IN: Asianet TV US
 http://stariptv.org:8080/wael2021/123456/99357
 #EXTINF:-1 ,IN: AASTHA
 http://stariptv.org:8080/wael2021/123456/99359
-#EXTINF:-1 ,IN: &TV HD
-http://stariptv.org:8080/wael2021/123456/99360
 #EXTINF:-1 ,IN: SONY SAB
 http://stariptv.org:8080/wael2021/123456/99361
 #EXTINF:-1 ,IN: Zee Talkies
@@ -1907,16 +1741,8 @@ http://stariptv.org:8080/wael2021/123456/99363
 http://stariptv.org:8080/wael2021/123456/99365
 #EXTINF:-1 ,IN: Sony Six SD
 http://stariptv.org:8080/wael2021/123456/99366
-#EXTINF:-1 ,IN: CHANNEL V
-http://stariptv.org:8080/wael2021/123456/99368
-#EXTINF:-1 ,IN: CNBC TV18 (NEWS)
-http://stariptv.org:8080/wael2021/123456/99370
-#EXTINF:-1 ,IN: COLORS KANNADA
-http://stariptv.org:8080/wael2021/123456/99371
 #EXTINF:-1 ,IN: sony pix HD
 http://stariptv.org:8080/wael2021/123456/99376
-#EXTINF:-1 ,IN: Star world HD
-http://stariptv.org:8080/wael2021/123456/99378
 #EXTINF:-1 ,IN: Travel xp HD
 http://stariptv.org:8080/wael2021/123456/99380
 #EXTINF:-1 ,IN: Bangala ABP Ananda
@@ -1941,28 +1767,16 @@ http://stariptv.org:8080/wael2021/123456/99408
 http://stariptv.org:8080/wael2021/123456/99410
 #EXTINF:-1 ,IN: Zee bangla
 http://stariptv.org:8080/wael2021/123456/99412
-#EXTINF:-1 ,IN:ATN NEWS
-http://stariptv.org:8080/wael2021/123456/99413
 #EXTINF:-1 ,IN: MTV India
 http://stariptv.org:8080/wael2021/123456/99415
-#EXTINF:-1 ,IN: Sonic Nickelodeon
-http://stariptv.org:8080/wael2021/123456/99417
 #EXTINF:-1 ,IN: ETV UK
 http://stariptv.org:8080/wael2021/123456/99419
 #EXTINF:-1 ,IN: Zee Telugu Ditto
 http://stariptv.org:8080/wael2021/123456/99421
-#EXTINF:-1 ,IN: GEMINI TV
-http://stariptv.org:8080/wael2021/123456/99426
 #EXTINF:-1 ,IN: RUPAVAHINI TV
 http://stariptv.org:8080/wael2021/123456/99428
-#EXTINF:-1 ,IN: MASTIII
-http://stariptv.org:8080/wael2021/123456/99433
-#EXTINF:-1 ,IN: MH1 NEWS
-http://stariptv.org:8080/wael2021/123456/99435
 #EXTINF:-1 ,IN: MH1 SHARDDHA
 http://stariptv.org:8080/wael2021/123456/99436
-#EXTINF:-1 ,IN: Animal Planet HINDI
-http://stariptv.org:8080/wael2021/123456/99442
 #EXTINF:-1 ,IN: CHANNEL Y
 http://stariptv.org:8080/wael2021/123456/99444
 #EXTINF:-1 ,IN: CHARDIKLA TIME TV
@@ -1973,10 +1787,6 @@ http://stariptv.org:8080/wael2021/123456/99249
 http://stariptv.org:8080/wael2021/123456/99250
 #EXTINF:-1 ,IN: VENDHAR Tamil
 http://stariptv.org:8080/wael2021/123456/99251
-#EXTINF:-1 ,IN: SUN TV US Tamil
-http://stariptv.org:8080/wael2021/123456/99252
-#EXTINF:-1 ,IN: SUN TV INDIA Tamil
-http://stariptv.org:8080/wael2021/123456/99253
 #EXTINF:-1 ,IN: SUN MUSIC Tamil
 http://stariptv.org:8080/wael2021/123456/99255
 #EXTINF:-1 ,IN: STAR VIJAY UK Tamil
@@ -2009,18 +1819,10 @@ http://stariptv.org:8080/wael2021/123456/99273
 http://stariptv.org:8080/wael2021/123456/99275
 #EXTINF:-1 ,IN: CAPTAIN NEWS Tamil
 http://stariptv.org:8080/wael2021/123456/99279
-#EXTINF:-1 ,IN: Sun tv Tamil
-http://stariptv.org:8080/wael2021/123456/99284
-#EXTINF:-1 ,IN: SANJHA PUNJABI
-http://stariptv.org:8080/wael2021/123456/99223
-#EXTINF:-1 ,IN: ALPHA ETC PUNJABI
-http://stariptv.org:8080/wael2021/123456/99231
 #EXTINF:-1 ,IN: Akaal Punjabi
 http://stariptv.org:8080/wael2021/123456/99235
 #EXTINF:-1 ,IN: PTC Chakde Punjabi
 http://stariptv.org:8080/wael2021/123456/99244
-#EXTINF:-1 ,IN: PTC News Punjabi
-http://stariptv.org:8080/wael2021/123456/99245
 #EXTINF:-1 ,IN: PTC Punjabi
 http://stariptv.org:8080/wael2021/123456/99246
 #EXTINF:-1 ,IN: Sikh Channel Punjabi
@@ -2035,7 +1837,6 @@ http://stariptv.org:8080/wael2021/123456/93630
 http://stariptv.org:8080/wael2021/123456/93632
 #EXTINF:-1 ,IN: WILLOW CRICKET
 http://stariptv.org:8080/wael2021/123456/93627
-
 #EXTINF:-1 group-title="VOD Indian" tvg-logo="https://image.tmdb.org/t/p/original/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg",IN: Rab Ne Bana Di Jodi
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/208080.mkv
 #EXTINF:-1 group-title="VOD Indian" tvg-logo="https://image.tmdb.org/t/p/original/b7DQTJqLaNQ6eAqZaDRIO028JCU.jpg",IN: Raju Ban Gaya Gentleman
@@ -2412,3 +2213,4 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197808.mp4
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197807.mp4
 #EXTINF:-1 group-title="VOD Italian" tvg-logo="https://image.tmdb.org/t/p/original/2yzxi9v20iltiQkFmZI9InjxafZ.jpg",IT: L Autista
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197806.mp4
+
