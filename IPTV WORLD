@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FashionTV Czech&Slovak (450p)
@@ -49,8 +50,6 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/67107
 http://2hubs.ddns.net:25461/BabNour/telegrramm/67131
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Bflix Movies HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/67171
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - NAT GEO WILD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/67181
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Sony Pix HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/67218
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - SONY SAB HD
@@ -109,26 +108,18 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/71153
 http://2hubs.ddns.net:25461/BabNour/telegrramm/71154
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Sony Ten 3 HD (JIO)
 http://2hubs.ddns.net:25461/BabNour/telegrramm/71157
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Nick Hindi HD (jio)
-http://2hubs.ddns.net:25461/BabNour/telegrramm/71166
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Discovery HD World (jio)
 http://2hubs.ddns.net:25461/BabNour/telegrramm/71169
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Sony YAY@VIP HINDI
 http://2hubs.ddns.net:25461/BabNour/telegrramm/72597
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Zee Cafe HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/72598
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - 9X Tashan HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/72877
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Oscar Movies HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/72878
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - B4U Plus HD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/72879
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Mastiii
 http://2hubs.ddns.net:25461/BabNour/telegrramm/73018
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - MTV HD +
 http://2hubs.ddns.net:25461/BabNour/telegrramm/73021
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - NAT GEO HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73022
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Rishtey CinePlex UK
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58448
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - SONY MAX
@@ -137,20 +128,12 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/67216
 http://2hubs.ddns.net:25461/BabNour/telegrramm/67267
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Zee Classic
 http://2hubs.ddns.net:25461/BabNour/telegrramm/67275
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Star Movies Select
-http://2hubs.ddns.net:25461/BabNour/telegrramm/72599
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Star Sports Select 1 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/72905
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Star Plus UK
-http://2hubs.ddns.net:25461/BabNour/telegrramm/69442
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - B4U Music UK
 http://2hubs.ddns.net:25461/BabNour/telegrramm/69444
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Aaj Tak UK
 http://2hubs.ddns.net:25461/BabNour/telegrramm/69447
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",IND - Rishtey UK
 http://2hubs.ddns.net:25461/BabNour/telegrramm/69451
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",3 Tamil TV (720p) [Not 24/7]
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",9XM (480p)
@@ -2325,8 +2308,6 @@ http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/43344
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/43347
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||BE|| ELEVEN PRO LEAGUES 2 HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/39950
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||BE|| PLAY SPORTS 3 FHD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/43363
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||BE|| TIPIK HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/66759
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||BE|| TIPIK HD+
@@ -2337,14 +2318,10 @@ http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/68603
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/68606
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||AF|| Canal+ Family HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/68608
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||AF.SEN|| SEN TV
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/3475
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||AF.RDC|| CANAL CVV
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/3510
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||PT|| RTP 2
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/9708
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||PT|| RTP 3
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/9711
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||PT|| RTP INTERNATIONAL
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/9713
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||PT|| RTP AÇORES
@@ -2367,8 +2344,6 @@ http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/36904
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/36905
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||NL|| ESPN 3 HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/36910
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||NL|| ESPN 6 HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/36913
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||NL|| RTL CRIME HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/36930
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||NL|| COMEDY CENTRAL HD
@@ -2447,8 +2422,6 @@ http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/479
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/492
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||FR|| CANAL J FHD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/498
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||FR|| TELETOON+ FHD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/501
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||FR|| BOOMERANG FHD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/502
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||FR|| DISNEY CHANNEL FHD
@@ -2599,8 +2572,6 @@ http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1383
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1384
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| DISNEY CHANNEL HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1389
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| DISNEY JUNIOR HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1390
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| DISNEY XD HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1391
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| NICKELODEON HD
@@ -2609,8 +2580,6 @@ http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1392
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1402
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| SKY MOVIES PREMIER HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1403
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| SKY SPORTS MAIN EVENT HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1412
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| SKY SPORTS PREMIER LEAGUE HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1413
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| SKY SPORTS CRICKET HD
@@ -2637,8 +2606,6 @@ http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1442
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1695
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| SKY CINEMA SELECT HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1699
-#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| MTV MUSIC HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1702
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| MTV HITS HD
 http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/1703
 #EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",||UK|| BOX OFFICE 7 HD
